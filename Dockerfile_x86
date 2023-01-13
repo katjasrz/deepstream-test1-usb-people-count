@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=nvcr.io/nvidia/deepstream-l4t:6.1.1-triton
+ARG BASE_IMAGE=nvcr.io/nvidia/deepstream:6.1.1-triton
 FROM ${BASE_IMAGE}
 
 ARG REPOSITORY_NAME=deepstream-test1-usb-people-count

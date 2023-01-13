@@ -82,6 +82,8 @@ For example:
 
 ## Docker instruction (alternative)
 
+Note that the default Dockerfile is for Jetson. If you would like to run the demo on an x86 device, switch it with the `Dockerfile_x86`.
+
 **Step 1: performed only once.** Build the container
 
 ```shell
