@@ -1,0 +1,6 @@
+model/*.etlt
+model/*.engine
+model/resnet34_peoplenet_int8.txt
+
+deepstream-test1-usb-people-count
+deepstream-test1-usb-people-count.o
